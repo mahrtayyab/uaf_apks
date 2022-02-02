@@ -26,16 +26,25 @@
                 "The App now notifies about the Extra Enrollments"
             ],
             "apkUrl":"https://github.com/mahrtayyab/uaf_apks/raw/main/releases/uafTools-V1.1.apk",
+            "isLatest":"False"
+        },
+        {
+            "version":"1.1b",
+            "versionCode":4,
+            "changeLogs":[
+                "Now App can check for updates automatically"
+            ],
+            "apkUrl":"https://github.com/mahrtayyab/uaf_apks/raw/main/releases/uafTools-V1.1b.apk",
             "isLatest":"True"
         }
     ],
     "latest":{
-        "version":"1.1",
-        "versionCode":3,
+        "version":"1.1b",
+        "versionCode":4,
         "changeLogs":[
-            "The App now notifies about the Extra Enrollments"
+            "Now App can check for updates automatically"
         ],
-        "apkUrl":"https://github.com/mahrtayyab/uaf_apks/raw/main/releases/uafTools-V1.1.apk",
+        "apkUrl":"https://github.com/mahrtayyab/uaf_apks/raw/main/releases/uafTools-V1.1b.apk",
         "isLatest":"True"
     }
 }
