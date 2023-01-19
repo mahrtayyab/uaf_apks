@@ -47,19 +47,31 @@
                 "Added App Icon"
             ],
             "apkUrl":"https://github.com/mahrtayyab/uaf_apks/raw/main/releases/app-release-V2.0.apk",
+            "isLatest":"False"
+        },
+        {
+            "version":"3.0",
+            "versionCode":6,
+            "changeLogs":[
+                "Important! , The Update Can't be installed over existing app, please uninstall the previous app and download the newer version from website",
+                "Material You added for supported devices",
+                "Connection Timeout issue has been resolved",
+                "New Design with graphs and metrics"
+            ],
+            "apkUrl":"https://github.com/mahrtayyab/uaf_apks/raw/main/releases/app-release-V3.0.apk",
             "isLatest":"True"
         }
     ],
     "latest":{
-        "version":"2.0",
-        "versionCode":5,
-        "changeLogs":[
-            "Name Search Feature is now available , by clicking on Name Search Button on the Home Screen",
-            "New Faeture available where you can get notification of new result announced for a specific AG Number , for this just check the result of the AG Number you want to get notification for and click the button at top right corner",
-            "Added New Settings Section",
-            "Added App Icon"
-        ],
-        "apkUrl":"https://github.com/mahrtayyab/uaf_apks/raw/main/releases/app-release-V2.0.apk",
-        "isLatest":"True"
-    }
+            "version":"3.0",
+            "versionCode":6,
+            "changeLogs":[
+                "Important! , The Update Can't be installed over existing app, please uninstall the previous app and download the newer version from website",
+                "Material You added for supported devices",
+                "Connection Timeout issue has been resolved",
+                "New Design with graphs and metrics"
+            ],
+            "apkUrl":"https://github.com/mahrtayyab/uaf_apks/raw/main/releases/app-release-V3.0.apk",
+            "isLatest":"True"
+        }
 }
